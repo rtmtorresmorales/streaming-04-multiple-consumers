@@ -63,6 +63,8 @@ See a running example with at least 3 concurrent process windows here:
 
 ![image](https://user-images.githubusercontent.com/111456228/218124978-c8239c46-3fb5-4a8f-a0e7-3cbd4f28c36a.png)
 
-![image](https://user-images.githubusercontent.com/111456228/218128859-4ecd82e5-3727-42f5-91f3-5b2c684d067a.png)
+![image](https://user-images.githubusercontent.com/111456228/218129076-af531c03-a287-49c2-b0c0-9c3397281535.png)
+
+
 
 
